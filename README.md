@@ -10,7 +10,7 @@
 2) Go to your dashboard and scroll down to find the API section
 3) Click on 'View API settings' to get your project url and anon key
 4) Add the tables either manually using 'Table Editor' or run the sql script using 'SQL Editor'
-5) Use the project url and anon key obtained above by putting them in the placeholder in supabase_service.dart file
+5) Use the project url and anon key obtained above by putting them in the placeholder in main.dart file
 
 # HOT RELOAD VS HOT RESTART
 1) Hot Reload
